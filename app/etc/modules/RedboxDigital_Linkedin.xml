@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <RedboxDigital_Linkedin>
+      <active>true</active>
+      <codePool>local</codePool>
+    </RedboxDigital_Linkedin>
+  </modules>
+</config>
